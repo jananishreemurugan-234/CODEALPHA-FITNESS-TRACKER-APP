@@ -60,7 +60,7 @@ This project reflects practical learning and implementation during the CodeAlpha
 
 1️.Clone Repository
 
-`git clone `
+`git clone https://github.com/jananishreemurugan-234/CODEALPHA-FITNESS-TRACKER-APP.git`
 `cd fitness-tracker-app`
 
 2️.Backend Setup
@@ -148,5 +148,17 @@ This Fitness Tracker App, built as part of the CodeAlpha Internship, highlights:
 - Graph integration for daily activity insights
 
 It serves as a strong portfolio project showcasing end-to-end web development skills.
+
+## Output
+### Desktop
+<img width="1125" height="680" alt="Screenshot 2025-09-10 062841" src="https://github.com/user-attachments/assets/2d436670-84b8-48e2-86f8-b29b6eb2742c" />
+<img width="1126" height="1126" alt="Screenshot 2025-09-10 062900" src="https://github.com/user-attachments/assets/238b5863-8c71-457d-a480-94b4dfd1976e" />
+
+### Mobile
+![Screenshot_2025_0926_201101](https://github.com/user-attachments/assets/b75af3fa-03a3-4c17-b125-63bb5eb0b358)
+![Screenshot_2025_0926_201116](https://github.com/user-attachments/assets/1e04771d-3f18-411d-8956-00309178a5e0)
+
+
+
 
 
