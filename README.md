@@ -60,8 +60,8 @@ This project reflects practical learning and implementation during the CodeAlpha
 
 1️.Clone Repository
 
-`git clone https://github.com/your-username/fitness-tracker-user.git`
-`cd fitness-tracker-user`
+`git clone `
+`cd fitness-tracker-app`
 
 2️.Backend Setup
 
@@ -89,7 +89,7 @@ export default API_BASE_URL;
 Open on phone → http://your-ip:3000
 
 ## Project Structure
-`fitness-tracker-user/`
+`fitness-tracker-app/`
 
 `│`
 
