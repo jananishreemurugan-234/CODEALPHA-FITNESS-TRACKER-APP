@@ -149,6 +149,12 @@ This Fitness Tracker App, built as part of the CodeAlpha Internship, highlights:
 
 It serves as a strong portfolio project showcasing end-to-end web development skills.
 
+## Future Enhancements
+- Use MongoDB for real database support
+- Add authentication (user login)
+- Dark/light mode toggle
+- Convert into a React Native mobile app
+
 ## Output
 ### Desktop
 <img width="1125" height="680" alt="Screenshot 2025-09-10 062841" src="https://github.com/user-attachments/assets/2d436670-84b8-48e2-86f8-b29b6eb2742c" />
