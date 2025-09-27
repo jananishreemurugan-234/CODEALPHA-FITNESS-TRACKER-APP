@@ -155,11 +155,5 @@ It serves as a strong portfolio project showcasing end-to-end web development sk
 <img width="1126" height="1126" alt="Screenshot 2025-09-10 062900" src="https://github.com/user-attachments/assets/238b5863-8c71-457d-a480-94b4dfd1976e" />
 
 ### Mobile
-<img width="400" height="1024" alt="image" src="https://github.com/user-attachments/assets/1aa0d8ee-d96e-402a-a10c-11cb5aad8b64" />
-<img width="512" height="1032" alt="image" src="https://github.com/user-attachments/assets/cdcca665-1df9-42c0-99fc-00ff0acf2987" />
-
-
-
-
-
-
+<img width="393" height="934" alt="Screenshot 2025-09-27 150254" src="https://github.com/user-attachments/assets/f7d6e569-e364-401d-8f24-d59301e756b3" />
+<img width="492" height="424" alt="Screenshot 2025-09-27 150322" src="https://github.com/user-attachments/assets/7db8aa00-f800-462c-b296-1d19a796d35e" />
